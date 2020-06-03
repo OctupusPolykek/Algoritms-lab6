@@ -1,4 +1,4 @@
-# C++ Sixth Lab
+# C++ Seventh Lab
 **Вариант 18**
 
 ## Tutorial
